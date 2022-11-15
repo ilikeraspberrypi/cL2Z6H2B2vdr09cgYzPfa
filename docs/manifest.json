@@ -31,6 +31,6 @@
     "theme_color": "#BC1142",
     "background_color": "#FFFFFF",
     "display": "fullscreen",
-    "orientation": "portrait",
-    "scope": "https://ilikeraspberrypi.github.io/cL2Z6H2B2vdr09cgYzPfa/"
+    "scope": "https://ilikeraspberrypi.github.io/cL2Z6H2B2vdr09cgYzPfa/",
+    "orientation": "portrait"
 }
