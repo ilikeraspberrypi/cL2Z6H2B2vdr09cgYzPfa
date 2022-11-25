@@ -135,6 +135,12 @@
     </div>
     </div>
     <script>
+      input.addEventListener("focus", (e) => {
+        addonwrapping.style.borderColor = "#75a928";
+        addonwrapping.style.boxShadow = "0 0 2px 0.25rem rgb(117 169 40 / 60%)";
+        addonwrapping.style.clipPath = "inset(-5px 1px -5px -5px)";
+        addonwrapping.style.transition = "box-shadow .15s ease-in-out,box-shadow .15s ease-in-out";
+      })
       btnlogin.onmouseover = (e) => {
         loginicon.style.fill = "white";
       }
