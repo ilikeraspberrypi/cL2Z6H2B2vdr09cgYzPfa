@@ -1,6 +1,8 @@
 {
     "name": "Bridge V2",
     "short_name": "Bridge",
+    "display": "fullscreen",
+    "scope": "https://ilikeraspberrypi.github.io/cL2Z6H2B2vdr09cgYzPfa/",
     "start_url": "https://ilikeraspberrypi.github.io/cL2Z6H2B2vdr09cgYzPfa/",
     "icons": [
         {
@@ -30,7 +32,5 @@
     ],
     "theme_color": "#BC1142",
     "background_color": "#FFFFFF",
-    "display": "fullscreen",
-    "scope": "https://ilikeraspberrypi.github.io/cL2Z6H2B2vdr09cgYzPfa/",
     "orientation": "portrait"
 }
