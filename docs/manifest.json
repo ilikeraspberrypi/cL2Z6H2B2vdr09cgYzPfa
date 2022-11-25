@@ -3,7 +3,7 @@
     "short_name": "Bridge",
     "display": "fullscreen",
     "scope": "https://ilikeraspberrypi.github.io/cL2Z6H2B2vdr09cgYzPfa/",
-    "start_url": "https://ilikeraspberrypi.github.io/cL2Z6H2B2vdr09cgYzPfa/",
+    "start_url": "https://ilikeraspberrypi.github.io/cL2Z6H2B2vdr09cgYzPfa/?standalone=true",
     "icons": [
         {
             "src": "icons/manifest-icon-192.maskable.png",
