@@ -1,6 +1,6 @@
 {
-    "name": "Bridge V2",
-    "short_name": "Bridge",
+    "name": "",
+    "short_name": "PiBridge",
     "display": "fullscreen",
     "scope": "https://pibridge.cf/",
     "start_url": "https://pibridge.cf/?standalone=true",
